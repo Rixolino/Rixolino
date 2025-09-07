@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+frontend+and+backend+webdeveloper+who's+making+useful+apps+for+your+purpose" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&duration=7001&lines=Welcome+to+my+GitHub+Profile!;I'm+a+frontend+and+backend+webdeveloper+who's+making+useful+apps+for+your+purpose" /></a>
 </p>
 
 ## 💻 Technical Skills
