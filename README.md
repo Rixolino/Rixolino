@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10000&width=435&lines=I'm+a+frontend+and+backend+webdeveloper+who's+making+useful+apps+for+your+purpose)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=2000&pause=10000&width=435&lines=I'm+a+frontend+and+backend+webdeveloper+who's+making+useful+apps+for+your+purpose)](https://git.io/typing-svg)
 
 ## 💻 Technical Skills
 
