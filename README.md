@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Rixolino/Rixolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Skills
 
-Here are some ideas to get you started:
+- Languages: **Java**, **React-Native**, **VB.NET (basic)**, **Python**, **HTML/CSS (including Bootstrap)**
+- Experienced with **virtual machines** (VMware, VirtualBox, 86Box)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- [**BetaCalculator**](https://github.com/Rixolino/BetaCalculator) – A VB.NET calculator with support for quadratic inequalities and **IEEE 754** floating-point standard
+- Testing and documenting **Windows beta builds** → [BetaWiki](https://betawiki.net/wiki/User:RixolinoVM/Tested_Builds)
+- Founder of **BetaCloud Archive** Discord community (focused on software and beta versions)
+
+---
+
+## 🌍 Languages
+
+- Italian 
+- English
+
+---
+
