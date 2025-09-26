@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+a+frontend+and+backend+webdeveloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+a+frontend+and+backend+web+developer)](https://git.io/typing-svg)
 
 ## 💻 Technical Skills
 
