@@ -17,8 +17,8 @@ Hi, I'm Simone, a software developer studying at Uniba: Computer Science and Sof
 
 ## 🚀 Projects
 
-- **[BC. Transporter](https://betacloud-transporter.is-cool.dev/)** - Future Transport Means Tracker App --[(Android)](https://github.com/Rixolino/BC-Transporter-Android) 
---[(Mobile App on Web)](https://bc-app-ios.vercel.app)
+- **[BC. Transporter](https://betacloud-transporter.is-cool.dev/)** - Future Transport Means Tracker App -[(Android)](https://github.com/Rixolino/BC-Transporter-Android) 
+-[(Mobile App on Web)](https://bc-app-ios.vercel.app)
 - [**BetaCalculator**](https://github.com/Rixolino/BetaCalculator) – A VB.NET calculator with support for quadratic inequalities and **IEEE 754** floating-point standard
 - Testing and documenting **Windows beta builds** → [BetaWiki](https://betawiki.net/wiki/User:RixolinoVM/Tested_Builds)
 - Founder of **BetaCloud Archive** Discord community (focused on software and beta versions)
