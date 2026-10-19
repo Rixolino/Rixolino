@@ -2,11 +2,10 @@
 
 # Hi, I'm Simone 👋
 
-[
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&center=true&vCenter=true&width=480&lines=Full-stack+web+%26+mobile+developer;CS+student+%40+Uniba;Beta+software+archivist+%F0%9F%92%BE)
 
-](https://git.io/typing-svg)
+
 
 </div>
 
