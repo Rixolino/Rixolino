@@ -65,7 +65,7 @@ I'm a Computer Science and Software Production Technologies student at **Uniba**
 ## 💾 Community & Preservation
 
 - 🪟 Testing and documenting Windows beta builds on [BetaWiki](https://betawiki.net/wiki/User:RixolinoVM/Tested_Builds)
-- ☁️ Founder of **BetaCloud Archive**, a Discord community dedicated to software and beta versions
+- ☁️ Founder of **[BetaCloud Archive](https://betacloud.is-cool.dev)**, a Discord community dedicated to software and beta versions
 
 ## 🌍 Languages
 
