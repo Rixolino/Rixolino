@@ -52,8 +52,8 @@ I'm a Computer Science and Software Production Technologies student at **Uniba**
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
-
-**Tools & environments:** VMware · VirtualBox · 86Box
+**Tools which I use to programming:** Visual Studio Code
+**Tools & environments I used for Archivist:** VMware · VirtualBox · 86Box
 
 ## 🚀 Featured Projects
 
